@@ -19,7 +19,7 @@
       "name": "LP USDC/USDT",
       "symbol": "SLP(USDCUSDT)",
       "decimals": 18,
-      "logoURI": "#",
+      "logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028",
       "extensions": {
         "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
       }
