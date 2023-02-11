@@ -9,15 +9,15 @@
   "tokens": [
     {
       "chainId": 137,
-      "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
-      "name": "Amp",
-      "symbol": "AMP",
+      "address": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
+      "name": "Sushiswap Liquidity",
+      "symbol": "SLP(USDT/USDC)",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397",
+      "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png",
       "extensions": {
         "bridgeInfo": {
           "1": {
-            "tokenAddress": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2"
+            "tokenAddress": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001"
           }
         }
       }
