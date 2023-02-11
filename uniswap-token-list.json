@@ -13,15 +13,7 @@
       "name": "Sushiswap",
       "symbol": "USDT/USDC",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978"
-    },
-    {
-      "chainId": 137,
-      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      "name": "Wrapped MATIC",
-      "symbol": "WMATIC",
-      "decimals": 18,
-      "logoURI": "https://cdn.iconscout.com/icon/free/png-256/polygon-token-4086724-3379854.png"
+      "logoURI": "https://cryptologos.cc/logos/sushiswap-sushi-logo.png"
     }
   ],
   "version": {
