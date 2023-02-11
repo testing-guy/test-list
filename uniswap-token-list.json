@@ -15,7 +15,8 @@
       "address": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
       "name": "LP USDC/USDT",
       "symbol": "SLP(USDCUSDT)",
-      "decimals": 18
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
     }
   ]
 }
