@@ -8,142 +8,6 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 137,
-      "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
-      "name": "Amp",
-      "symbol": "AMP",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
-      "name": "Ankr",
-      "symbol": "ANKR",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4"
-          }
-        }
-      }
-    },
-    {
-      "name": "Aragon",
-      "address": "0x2b8504ab5eFc246d0eC5Ec7E74565683227497de",
-      "symbol": "ANT",
-      "decimals": 18,
-      "chainId": 137,
-      "logoURI": "https://assets.coingecko.com/coins/images/681/thumb/JelZ58cv_400x400.png?1601449653",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
-      "name": "ApeCoin",
-      "symbol": "APE",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x4d224452801ACEd8B2F0aebE155379bb5D594381"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0x45C27821E80F8789b60Fd8B600C73815d34DDa6C",
-      "name": "API3",
-      "symbol": "API3",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/13256/thumb/api3.jpg?1606751424",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
-      "name": "ARPA Chain",
-      "symbol": "ARPA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/8506/thumb/9u0a23XY_400x400.jpg?1559027357",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0x04bEa9FCE76943E90520489cCAb84E84C0198E29",
-      "name": "AirSwap",
-      "symbol": "AST",
-      "decimals": 4,
-      "logoURI": "https://assets.coingecko.com/coins/images/1019/thumb/Airswap.png?1630903484",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x27054b13b1B798B345b591a4d22e6562d47eA75a"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0x0df0f72EE0e5c9B7ca761ECec42754992B2Da5BF",
-      "name": "Automata",
-      "symbol": "ATA",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/15985/thumb/ATA.jpg?1622535745",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0xA2120b9e674d3fC3875f415A7DF52e382F141225"
-          }
-        }
-      }
-    },
-    {
-      "chainId": 137,
-      "address": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
-      "name": "Sushiswap Liq.",
-      "symbol": "SLP(USDCUSDT)",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
-      "chainId": 137,
-      "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
-      "name": "CRO",
-      "symbol": "CRO",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
-    },
-    {
       "chainId": 1,
       "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
       "name": "0x Protocol Token",
@@ -890,7 +754,143 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDC.svg"
-    }
+    },
+    {
+      "chainId": 137,
+      "address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
+      "name": "Amp",
+      "symbol": "AMP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12409/thumb/amp-200x200.png?1599625397",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xfF20817765cB7f73d4bde2e66e067E58D11095C2"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x101A023270368c0D50BFfb62780F4aFd4ea79C35",
+      "name": "Ankr",
+      "symbol": "ANKR",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4324/thumb/U85xTl2.png?1608111978",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x8290333ceF9e6D528dD5618Fb97a76f268f3EDD4"
+          }
+        }
+      }
+    },
+    {
+      "name": "Aragon",
+      "address": "0x2b8504ab5eFc246d0eC5Ec7E74565683227497de",
+      "symbol": "ANT",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/681/thumb/JelZ58cv_400x400.png?1601449653",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xa117000000f279D81A1D3cc75430fAA017FA5A2e"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xB7b31a6BC18e48888545CE79e83E06003bE70930",
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24383/small/apecoin.jpg?1647476455",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x4d224452801ACEd8B2F0aebE155379bb5D594381"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x45C27821E80F8789b60Fd8B600C73815d34DDa6C",
+      "name": "API3",
+      "symbol": "API3",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/13256/thumb/api3.jpg?1606751424",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x0b38210ea11411557c13457D4dA7dC6ea731B88a"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
+      "name": "ARPA Chain",
+      "symbol": "ARPA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/8506/thumb/9u0a23XY_400x400.jpg?1559027357",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xBA50933C268F567BDC86E1aC131BE072C6B0b71a"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x04bEa9FCE76943E90520489cCAb84E84C0198E29",
+      "name": "AirSwap",
+      "symbol": "AST",
+      "decimals": 4,
+      "logoURI": "https://assets.coingecko.com/coins/images/1019/thumb/Airswap.png?1630903484",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0x27054b13b1B798B345b591a4d22e6562d47eA75a"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x0df0f72EE0e5c9B7ca761ECec42754992B2Da5BF",
+      "name": "Automata",
+      "symbol": "ATA",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15985/thumb/ATA.jpg?1622535745",
+      "extensions": {
+        "bridgeInfo": {
+          "1": {
+            "tokenAddress": "0xA2120b9e674d3fC3875f415A7DF52e382F141225"
+          }
+        }
+      }
+    },
+    {
+      "chainId": 137,
+      "address": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
+      "name": "Sushiswap Liq.",
+      "symbol": "SLP(USDCUSDT)",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 137,
+      "address": "0xAdA58DF0F643D959C2A47c9D4d4c1a4deFe3F11C",
+      "name": "CRO",
+      "symbol": "CRO",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
   ],
   "version": {
     "major": 2,
