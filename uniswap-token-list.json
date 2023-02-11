@@ -22,6 +22,14 @@
       "symbol": "CRO",
       "decimals": 9,
       "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+      "name": "W",
+      "symbol": "1INCH",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
     }
   ],
   "version": {
