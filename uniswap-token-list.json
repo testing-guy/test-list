@@ -13,14 +13,7 @@
       "name": "Sushiswap Liquidity",
       "symbol": "SLP(USDT/USDC)",
       "decimals": 18,
-      "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png",
-      "extensions": {
-        "bridgeInfo": {
-          "1": {
-            "tokenAddress": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001"
-          }
-        }
-      }
+      "logoURI": "https://polygonscan.com/token/images/centre-usdc_32.png"
     },
     {
       "chainId": 137,
