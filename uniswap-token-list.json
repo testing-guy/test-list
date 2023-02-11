@@ -1,12 +1,45 @@
 {
-  "name": "Testing",
-  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "name": "My Token List",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
-    "compound",
-    "defi"
+    "audited",
+    "verified",
+    "special tokens"
   ],
-  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "compound": {
+      "name": "Compound Finance",
+      "description": "Tokens that earn interest on compound.finance"
+    }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
   "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "logoURI": "ipfs://QmXfzKRvjZz3u5JRgC4v5mGVbm9ahrUiB4DgzHBsnWbTMM",
+      "tags": [
+        "stablecoin"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+      "symbol": "cUSDC",
+      "name": "Compound USD Coin",
+      "decimals": 8,
+      "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+      "tags": [
+        "compound"
+      ]
+    },
     {
       "chainId": 137,
       "address": "0x4B1F1e2435A9C96f7330FAea190Ef6A7C8D70001",
@@ -33,7 +66,7 @@
     }
   ],
   "version": {
-    "major": 2,
+    "major": 1,
     "minor": 0,
     "patch": 0
   }
