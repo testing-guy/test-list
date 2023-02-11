@@ -1,5 +1,5 @@
 {
-  "name": "My Token List",
+  "name": "Testing",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
     "audited",
@@ -16,7 +16,7 @@
       "description": "Tokens that earn interest on compound.finance"
     }
   },
-  "timestamp": "2020-06-12T00:00:00+00:00",
+  "timestamp": "2023-01-12T00:00:00+00:00",
   "tokens": [
     {
       "chainId": 137,
