@@ -1,14 +1,11 @@
 {
   "name": "Testing",
-  "timestamp": "2022-10-03T22:03:29.938Z",
-  "version": {
-    "major": 2,
-    "minor": 0,
-    "patch": 0
-  },
-  "tags": {},
-  "logoURI": "ipfs://QmXsbxYZrdZrgqDMv37BaNmwsoG79uCk4ic8iYB9Nqaw4J",
-  "keywords": ["blockchain", "sec", "action"],
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
       "chainId": 137,
@@ -18,5 +15,10 @@
       "decimals": 18,
       "logoURI": "https://ethereum-optimism.github.io/data/0xBTC/logo.png"
     }
-  ]
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
 }
