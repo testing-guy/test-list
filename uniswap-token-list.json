@@ -14,6 +14,14 @@
       "symbol": "USDT/USDC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x499A8E8d12a8c732Bb6D9b2e7F97110134115937",
+      "name": "OmniZAP",
+      "symbol": "OMNI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
     }
   ],
   "version": {
