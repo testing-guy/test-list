@@ -26,6 +26,14 @@
     {
       "chainId": 137,
       "address": "0x5A1DcaBD1C78E9b7Ed55b1c602A22D6Cad7a72F0",
+      "name": "OmniZAP",
+      "symbol": "ZAP",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    },
+    {
+      "chainId": 137,
+      "address": "0x379428D03c855f6Ef0f472CfeDe724fd6F7B609A",
       "name": "BOND-TEST",
       "symbol": "BOND",
       "decimals": 18,
