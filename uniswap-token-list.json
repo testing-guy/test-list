@@ -46,7 +46,7 @@
       "symbol": "BOND2",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
-    }
+    },
   ],
   "version": {
     "major": 2,
