@@ -33,20 +33,20 @@
     },
     {
       "chainId": 137,
-      "address": "0x379428D03c855f6Ef0f472CfeDe724fd6F7B609A",
-      "name": "BOND-TEST",
-      "symbol": "BOND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x232D169D611CF01701c71c390cd5E6F7611DECb5",
       "name": "BOND-TEST2",
       "symbol": "BOND2",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
     },
+    {
+      "chainId": 137,
+      "address": "0x379428D03c855f6Ef0f472CfeDe724fd6F7B609A",
+      "name": "BOND-TEST",
+      "symbol": "BOND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    }
   ],
   "version": {
     "major": 2,
