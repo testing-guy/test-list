@@ -41,20 +41,20 @@
     },
     {
       "chainId": 137,
-      "address": "0x379428D03c855f6Ef0f472CfeDe724fd6F7B609A",
-      "name": "BOND-TEST",
-      "symbol": "BOND",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
-    },
-    {
-      "chainId": 137,
       "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
       "name": "Wrapped MATIC",
       "symbol": "WMATIC",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/wMatic_32.png"
     },
+    {
+      "chainId": 137,
+      "address": "0x379428D03c855f6Ef0f472CfeDe724fd6F7B609A",
+      "name": "BOND-TEST",
+      "symbol": "BOND",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12271/small/512x512_Logo_no_chop.png"
+    }
   ],
 
   "version": {
